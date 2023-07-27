@@ -1,5 +1,3 @@
-# Awesome AI Quotes
-
 ![Awesome AI Quotes](./assets/title.svg)
 
 **Alan Kay** (computer scientist, pioneering work on object-oriented programming)
