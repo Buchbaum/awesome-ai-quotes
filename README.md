@@ -1,5 +1,7 @@
 # Awesome AI Quotes
 
+![Awesome AI Quotes](./assets/title.svg)
+
 **Alan Kay** (computer scientist, pioneering work on object-oriented programming)
 
 >“Some people worry that artificial intelligence will make us feel inferior, but then, anybody in his right mind should have an inferiority complex every time he looks at a flower.”
