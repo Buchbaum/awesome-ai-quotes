@@ -18,7 +18,7 @@ Contribution guidelines can be found [here](CONTRIBUTING.md).
 
 ## Quotes
 
-<strong id="alan-kay">Alan Kay</strong> (computer scientist, pioneering work on object-oriented programming)
+<strong id="alan-kay">[Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay)</strong> — computer scientist, best known for his pioneering work on OOP and windowing GUI design.
 
 >“Some people worry that artificial intelligence will make us feel inferior, but then, anybody in his right mind should have an inferiority complex every time he looks at a flower.”
 
