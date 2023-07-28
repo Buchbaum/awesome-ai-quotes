@@ -57,3 +57,16 @@ Contribution guidelines can be found [here](CONTRIBUTING.md).
 
 <strong id="stuart-russel">Stuart Russell</strong>
 >“No one has a clue how to build a conscious machine, at all.”
+
+## Credit
+
+The idea of creating such a collection of quotes is largely influenced by the [awesome-it-quotes](https://github.com/victorlaerte/awesome-it-quotes) repository.
+
+## License
+
+<p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+  <a rel="license"
+     href="http://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="https://mirrors.creativecommons.org/presskit/buttons/80x15/svg/cc-zero.svg" style="border-style: none;" alt="CC0" />
+  </a>
+</p>
