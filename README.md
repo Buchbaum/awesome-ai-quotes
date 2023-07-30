@@ -4,6 +4,7 @@
 - [Alan Kay](#alan-kay)
 - [Alan Turing](#alan-turing)
 - [Edsger W. Dijkstra](#edsger-dijkstra)
+- [Eliezer Yudkowsky](#eliezer-yudkowsky)
 - [Elon Musk](#elon-musk)
 - [John McCarth](#john-mccarthy)
 - [Mark Cuban](#mark-cuban)
@@ -30,6 +31,11 @@ Contribution guidelines can be found [here](CONTRIBUTING.md).
 
 <strong id="edsger-dijkstra">[Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra)</strong> — computer scientist, programmer, software engineer, and science essayist.
 >“The question of whether a computer can think is no more interesting than the question of whether a submarine can swim.”
+
+<strong id="eliezer-yudkowsky">[Eliezer Yudkowsky](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky)</strong> — AI researcher and writer on decision theory and ethics, popularizing ideas related to friendly AI.
+>“By far the greatest danger of Artificial Intelligence is that people conclude too early that they understand it.”
+
+>“The AI does not hate you, nor does it love you, but you are made out of atoms which it can use for something else.”
 
 <strong id="elon-musk">[Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk)</strong> — business magnate and investor.
 >“I’m increasingly inclined to think that there should be some regulatory oversight, maybe at the national and international level, just to make sure that we don’t do something very foolish. I mean with artificial intelligence we’re summoning the demon.”
