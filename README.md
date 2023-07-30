@@ -14,7 +14,7 @@
 - [Stuart Russell](#stuart-russel)
 - [Terry Pratchett](#terry-pratchett)
 
-## Contribution Guidelines
+## Contribution
 
 Contribution guidelines can be found [here](CONTRIBUTING.md).
 
