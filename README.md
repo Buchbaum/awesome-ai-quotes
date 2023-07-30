@@ -40,7 +40,7 @@ Contribution guidelines can be found [here](CONTRIBUTING.md).
 <strong id="mark-cuban">[Mark Cuban](https://en.wikipedia.org/wiki/Mark_Cuban)</strong> — businessman, investor, film producer, and television personality.
 >“I am telling you, the world’s first trillionaires are going to come from somebody who masters AI and all its derivatives and applies it in ways we never thought of.”
 
-<strong id="nick-bostrom">[Nick Bostrom](https://en.wikipedia.org/wiki/Nick_Bostrom)</strong> — philosopher, known for his work on existential risk, human enhancement ethics, and superintelligence risks.
+<strong id="nick-bostrom">[Nick Bostrom](https://en.wikipedia.org/wiki/Nick_Bostrom)</strong> — philosopher, known for his work on human enhancement ethics and superintelligence risks.
 >“Machine intelligence is the last invention that humanity will ever need to make.”
 
 <strong id="pedro-domingos">[Pedro Domingos](https://en.wikipedia.org/wiki/Pedro_Domingos)</strong> — researcher in machine learning known for Markov logic network enabling uncertain inference.
