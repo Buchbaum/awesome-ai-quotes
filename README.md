@@ -50,7 +50,7 @@ Contribution guidelines can be found [here](CONTRIBUTING.md).
 
 <br />
 
-<strong id="eliezer-yudkowsky">[Eliezer Yudkowsky](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky)</strong> — AI researcher and writer on decision theory and ethics, popularizing ideas related to friendly AI.
+<strong id="eliezer-yudkowsky">[Eliezer Yudkowsky](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky)</strong> — AI researcher and writer on decision theory and ethics.
 >“By far the greatest danger of Artificial Intelligence is that people conclude too early that they understand it.”
 
 >“The AI does not hate you, nor does it love you, but you are made out of atoms which it can use for something else.”
